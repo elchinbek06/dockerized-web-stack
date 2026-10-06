@@ -13,3 +13,6 @@ A production-ready microservices architecture built with **Nginx**, **FastAPI (P
 ### Prerequisites
 - Docker Engine installed
 - Docker Compose installed
+```bash
+   git clone [https://github.com/YOUR_USERNAME/dockerized-web-stack.git](https://github.com/elchinbek06/dockerized-web-stack.git)
+   cd dockerized-web-stack
